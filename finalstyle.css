@@ -115,13 +115,12 @@ input {
     .row2 {
         display: flex;
         flex-direction: row;
-        max-width: 100%;
-        height: auto;
+
     }
 
 
     .img {
-        grid-template-columns: repeat(3, 1fr);
+        grid-template-columns: 30%;
         grid-gap: 1rem;
         font-size: 2rem;
         max-width: 100%;
