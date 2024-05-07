@@ -129,7 +129,7 @@ input {
     }
 
     .footer {
-        display:flexbox;
+        display: grid;
         height: auto;
     }
 
