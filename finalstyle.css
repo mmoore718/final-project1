@@ -130,5 +130,11 @@ input {
 
     .footer {
         display:flexbox;
+        height: auto;
+    }
+
+    .topnav  {
+        display:flexbox;
+        height: auto;
     }
   }
