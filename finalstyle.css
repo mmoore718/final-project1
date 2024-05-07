@@ -104,10 +104,6 @@ input {
     align-items: center;
   }
 
-  .submit-button {
-    width: 4px;
-    height: auto;
-  }
 
   @media screen and (min-width: 480rem) {
     .row1 {
