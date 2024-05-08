@@ -97,8 +97,7 @@ h1 {
 }
 
 input {
-    width: 250px;
-    height: 20px;
+
     justify-content: flex;
     display:flex;
     align-items: center;
